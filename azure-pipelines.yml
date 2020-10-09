@@ -1,5 +1,6 @@
 trigger:
 - '*'
+# aint a thing
   
 variables:
     buildConfiguration: 'Release'
